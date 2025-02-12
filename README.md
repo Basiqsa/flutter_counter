@@ -1,6 +1,6 @@
 # flutter_counter
 
-A new Flutter project.
+A basic counter app with riverpod for state management with a weather app api test page
 
 ## Getting Started
 
